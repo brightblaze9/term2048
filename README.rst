@@ -93,3 +93,4 @@ v0.2.0
 * Windows support by @valtron
 * AZ mode by @JosephRedfern
 * The first file-related tests were added by @taeram
+[![Run on Repl.it](https://repl.it/badge/github/bfontaine/term2048)](https://repl.it/github/bfontaine/term2048)
